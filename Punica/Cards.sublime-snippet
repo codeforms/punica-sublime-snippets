@@ -1,0 +1,22 @@
+<snippet>
+	<content><![CDATA[
+<div class="three cards">
+	<div class="card">
+		<div class="media">
+			<img src="">
+		</div>
+		<div class="title">
+			<div class="h4">Card Title</div>
+			<div class="subtitle">Card Subtitle</div>
+		</div>
+		<div class="description">
+			Lorem ipsum dolor...
+		</div>
+	</div>
+</div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>pun.cards</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

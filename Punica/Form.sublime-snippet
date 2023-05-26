@@ -12,7 +12,7 @@
 			<input id="" name="" type="">
 		</div>
 		<div class="item">
-			<label for="">Month</label>
+			<label for=""></label>
 			<input type="" id="" name="">
 		</div>
 	</div>
