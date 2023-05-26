@@ -23,6 +23,7 @@ pun.badge
 pun.billboard
 pun.breadcrumb
 pun.card
+pun.cards
 pun.list
 pun.menu
 pun.navbar
