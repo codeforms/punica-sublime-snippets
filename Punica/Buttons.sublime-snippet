@@ -1,0 +1,19 @@
+<snippet>
+	<content><![CDATA[
+<div class="buttons">
+    <button class="button">
+        Button
+    </button>
+    <a href="" class="active button">
+        Button
+    </a>
+    <button class="button">
+        Button
+    </button>
+</div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>pun.buttons</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

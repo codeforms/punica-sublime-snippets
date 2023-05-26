@@ -1,0 +1,21 @@
+<snippet>
+	<content><![CDATA[
+<div class="buttons">
+    <a class="button" href="">
+        <span class="material-symbols-outlined">keyboard_arrow_left</span>
+    </a>
+    <a class="button" href="">1</a>
+    <a class="button active" href="">2</a>
+    <button class="button inactive">...</button>
+    <a class="button" href="">12</a>
+    <a class="button" href="">13</a>
+    <a class="button" href="">
+        <span class="material-symbols-outlined">keyboard_arrow_right</span>
+    </a>
+</div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>pun.pagination</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

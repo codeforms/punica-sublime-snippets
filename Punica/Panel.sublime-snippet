@@ -1,0 +1,22 @@
+<snippet>
+	<content><![CDATA[
+<div class="panel">
+    <div class="header">
+        <div class="title">Title</div>
+        <div class="actions">Actions</div>
+    </div>
+    <div class="content">
+        <div class="headline">Headline</div>
+        <p>Content</p>
+    </div>
+    <div class="bottom">
+        Bottom
+        <div class="actions">Actions</div>
+    </div>
+</div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>pun.panel</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+<div class="stats">
+    <div class="title">Title</div>
+    <div class="value">Value</div>
+    <div class="subtitle">This is a subtitle.</div>
+</div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>pun.stats</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

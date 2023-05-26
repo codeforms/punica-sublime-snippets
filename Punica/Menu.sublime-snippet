@@ -1,0 +1,21 @@
+<snippet>
+	<content><![CDATA[
+<div class="menu">
+    <div class="title"></div>
+    <div class="item">
+        <a href="" class="active">
+            
+        </a>
+    </div>
+    <div class="item">
+        <a href="">
+            
+        </a>
+    </div>
+</div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>pun.menu</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

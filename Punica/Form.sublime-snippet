@@ -1,0 +1,34 @@
+<snippet>
+	<content><![CDATA[
+<form class="form">
+	<div class="item">
+		<label for=""></label>
+		<input type="" name="" placeholder="" id="">
+	</div>
+	<!-- two items -->
+	<div class="two items">
+		<div class="item">
+			<label for=""></label>
+			<input id="" name="" type="">
+		</div>
+		<div class="item">
+			<label for="">Month</label>
+			<input type="" id="" name="">
+		</div>
+	</div>
+	<!-- input group -->
+	<div class="item">
+		<label></label>
+		<div class="group">
+			<input type="" name="" id="">
+			<input type="" name="" id="">
+			<button class="button primary"></button>
+		</div>
+	</div>
+</form>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>pun.form</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

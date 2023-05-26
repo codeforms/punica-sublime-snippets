@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+<div class="timeline">
+    <div class="activity">
+        <div class="type"></div>
+        <div class="date"></div>
+        <div class="author"></div>
+        <div class="body"></div>
+    </div>
+</div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>pun.timeline</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

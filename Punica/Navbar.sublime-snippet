@@ -1,0 +1,41 @@
+<snippet>
+	<content><![CDATA[
+<header class="navbar">
+    <div class="container">
+        <!-- responsive hamburger menu -->
+        <input type="checkbox" id="burger">
+        <label for="burger" class="burger"></label>
+        <!-- /responsive hamburger menu-->
+
+        <!-- navbar brand -->
+        <section class="brand">
+            <a href="">
+                <img src="">
+            </a>
+        </section>
+
+        <!-- navbar links -->
+        <section class="links">
+            <div class="section">
+                <div class="buttons">
+                	<a href="" class="button"></a>
+                    <div class="dropdown">
+                        <a class="button toggle" tabindex="0">
+                            Item <span class="material-symbols-outlined">keyboard_arrow_down</span>
+                        </a>
+                        <ul class="menu">
+                            <li class="item"><a href=""></a></li>
+                            <li class="item"><a href=""></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+</header>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>pun.navbar</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
