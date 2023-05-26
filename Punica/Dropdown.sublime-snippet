@@ -1,15 +1,13 @@
 <snippet>
 	<content><![CDATA[
-<div class="buttons">
-	<div class="dropdown">
-		<a class="toggle button">
-			Dropdown <span class="material-symbols-outlined">keyboard_arrow_down</span>
-		</a>
-		<ul class="menu">
-			<li class="item"><a href="#">Dropdown 1</a></li>
-			<li class="active item"><a href="#">Dropdown 2</a></li>
-		</ul>
-	</div>
+<div class="dropdown">
+	<a class="toggle button">
+		Dropdown <span class="material-symbols-outlined">keyboard_arrow_down</span>
+	</a>
+	<ul class="menu">
+		<li class="item"><a href="#">Dropdown 1</a></li>
+		<li class="active item"><a href="#">Dropdown 2</a></li>
+	</ul>
 </div>
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
