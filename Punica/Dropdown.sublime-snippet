@@ -6,7 +6,7 @@
 	</a>
 	<ul class="menu">
 		<li class="item"><a href="#">Dropdown 1</a></li>
-		<li class="active item"><a href="#">Dropdown 2</a></li>
+		<li class="item"><a href="#" class="active">Dropdown 2</a></li>
 	</ul>
 </div>
 ]]></content>
